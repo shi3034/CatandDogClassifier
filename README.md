@@ -1,6 +1,3 @@
-Here is the complete `README.md` file:  
-
-```markdown
 # Cat and Dog Image Classification
 
 This project implements a convolutional neural network (CNN) model to classify images of cats and dogs. The model processes input images, learns the features of both classes (cat and dog), and outputs a binary classification indicating whether the image contains a cat or a dog.
@@ -97,4 +94,3 @@ The model outputs probabilities, which you can threshold to assign the class lab
 This project is open-source and licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
 
-You can save this file as `README.md` in your project directory to provide a detailed and organized description of your project.
